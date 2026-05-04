@@ -1,7 +1,7 @@
 # XBugHunter
 
-XBugHunter is an AI-enabled antimicrobial resistance prediction framework that uses routine MALDI-TOF mass spectrometry spectra generated during clinical microbiology workflows to infer pathogen-specific antibiotic non-susceptibility before conventional AST results are available.
+XBugHunter is a research framework for AI-enabled antimicrobial resistance prediction using routine MALDI-TOF mass spectrometry data from clinical microbiology workflows.
 
-The repository contains code and resources for MALDI-TOF spectral preprocessing, resistance-prediction model development, explainable feature attribution, geographic and temporal validation, prospective MRSA prediction analysis, and cross-country model adaptation using federated and transfer learning.
+The project explores how routinely generated bacterial spectra can be used to support earlier resistance prediction and improve model generalization across different clinical settings.
 
-> This repository is intended for research use. Model outputs should not be used for clinical decision-making without local validation, calibration and confirmatory antibiotic susceptibility testing.
+This repository is intended for research and reproducibility purposes. Clinical use requires local validation, calibration and confirmation by standard antibiotic susceptibility testing.
